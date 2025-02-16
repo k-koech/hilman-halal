@@ -1,5 +1,6 @@
 {
     "SERVER_URL": "https://hilman.developerske.org",
     "IMAGES_URL": "https://hilman.developerske.org",
-    "CLIENT_URL": "https://hilman.developerske.org"
+    "CLIENT_URL": "https://hilman.developerske.org",
+    "GOOGLE_CLIENT_ID": "620389261399-9e8hus80nunk5e6r0ickoc7o8gp0g4n0.apps.googleusercontent.com"
 }
